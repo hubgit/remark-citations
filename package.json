@@ -1,0 +1,12 @@
+{
+  "name": "remark-citations",
+  "description": "Remark plugin to convert citations to cite tags",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "github:hubgit/remark-citations",
+  "author": "Alf Eaton <eaton.alf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "^2.0.0"
+  }
+}
